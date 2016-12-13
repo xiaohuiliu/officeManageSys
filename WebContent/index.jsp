@@ -71,6 +71,7 @@
 							<li>员工编号：${employee.employeeID}</li>
 							<li>员工姓名：${employee.employeeName}</li>
 							<li>员工性别：${employee.employeeSex ? "男" : "女"}</li>
+							<li></li>
 						</ul>
 					</c:otherwise>
 				</c:choose>
